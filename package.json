@@ -1,0 +1,13 @@
+{
+  "name": "infrastructure-client-phaser-isometric-controller",
+  "version": "0.0.1",
+  "private": false,
+  "author": {
+    "name": "Stefan Stefanov",
+    "email": "s.h.stefanov@mail.bg"
+  },
+  "dependencies": {
+    "source-map-loader": "^0.1.5",
+    "transform-loader": "^0.2.3"
+  }
+}
