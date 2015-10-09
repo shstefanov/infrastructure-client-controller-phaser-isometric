@@ -7,10 +7,6 @@
     "email": "s.h.stefanov@mail.bg"
   },
   "dependencies": {
-    "brfs": "^1.4.1",
-    "bulkify": "^1.1.1",
-    "source-map-loader": "^0.1.5",
-    "transform-loader": "^0.2.3",
-    "underscore": "^1.8.3"
+   
   }
 }
